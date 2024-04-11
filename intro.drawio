@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T10:08:54.632Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="q-Fx6-WhtpQYSxuY_IVe" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T10:14:42.717Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gSKajCUvEp3UfBPBRXaf" version="24.2.1" type="github">
   <diagram name="第 1 页" id="RoUJtp1ca_ix6E7DKOYr">
     <mxGraphModel dx="1346" dy="801" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -266,8 +266,8 @@
             <mxPoint x="738" y="1154" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VDyG_0sEehmQ8YzIbHEi-68" value="Item 1&lt;div style=&quot;font-size: 14px;&quot;&gt;Item 2&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;...&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Item N&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="753" y="1013.5" width="66" height="177" as="geometry" />
+        <mxCell id="VDyG_0sEehmQ8YzIbHEi-68" value="Item 1&lt;div style=&quot;font-size: 14px;&quot;&gt;Item 2&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;...&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Item k1&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;...&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Item k2&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;...&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;Item N&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="753" y="1014.5" width="66" height="177" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
